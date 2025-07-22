@@ -26,22 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👨‍💻 About Me
-
-* 🎓 **Master’s in Computer Science** – ENI Fianarantsoa
-* 💼 **DevOps Engineer @ Mokolos** since November 2024
-* ⏳ **8+ months of experience** in cloud infrastructure, CI/CD, automation, and monitoring
-* 🛠️ **Technologies:** AWS, GCP, Docker, Kubernetes, Terraform, Jenkins, GitLab CI, GitHub Actions, Prometheus, Grafana, Ansible
-
-- 🔭 I’m currently working at **Mokolos** as a DevOps Engineer (since Nov 2024)
-- ☁️ I specialize in **AWS**, **GCP**, **Kubernetes**, **Terraform**, **Docker**, and **Jenkins**
-- 📦 I containerize and deploy scalable apps, and automate infrastructure with IaC tools
-- 🌱 Always learning and experimenting with cloud-native technologies
-- 💬 Ask me about: DevOps, CI/CD, Infrastructure as Code, Monitoring, Cloud Security
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fabien-andrianambinintsoa/) • fabien.devops@gmail.com
-- ⚡ Fun fact: I love solving complex technical puzzles and making infrastructure dance with automation scripts 🎯
-
-- 
+## 👨‍💻 About Me 
 - 🔭 I’m currently working on **DevOps and Cloud Engineer**
 
 - 🌱 I’m currently learning **Azure**
