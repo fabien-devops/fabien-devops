@@ -37,29 +37,30 @@ I'm **Fabien Andrianambinintsoa**, a passionate **DevOps Engineer** specializing
 
 ### Languages and Tools:
 
-[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/)  
-[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
-[![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)  
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)  
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)  
-[![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com/)  
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)  
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](https://grafana.com/)  
-[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)  
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)  
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)  
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
-[![MSSQL](https://img.shields.io/badge/Microsoft_SQLServer-CC2927?logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![Nginx](https://img.shields.io/badge/Nginx-269539?logo=nginx&logoColor=white)](https://www.nginx.com/)  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)  
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)  
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)](https://www.selenium.dev/)  
-[![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="32" height="32" alt="Angular" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="32" height="32" alt="AWS" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="32" height="32" alt="Azure" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="32" height="32" alt="Bash" /> &nbsp;
+<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="32" height="32" alt="Docker" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="32" height="32" alt=".NET" /> &nbsp;
+<img src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" width="32" height="32" alt="GCP" /> &nbsp;
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="32" height="32" alt="Git" /> &nbsp;
+<img src="https://grafana.com/static/img/blog/logo-grafana-icon.svg" width="32" height="32" alt="Grafana" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="32" height="32" alt="Java" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="32" height="32" alt="Jenkins" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="32" height="32" alt="Kubernetes" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="32" height="32" alt="Linux" /> &nbsp;
+<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" width="32" height="32" alt="MongoDB" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_SQL_Server_Logo.svg" width="32" height="32" alt="MSSQL" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="32" height="32" alt="MySQL" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" width="32" height="32" alt="Nginx" /> &nbsp;
+<img src="https://nodejs.org/static/images/logo.svg" width="32" height="32" alt="Node.js" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="32" height="32" alt="PostgreSQL" /> &nbsp;
+<img src="https://www.python.org/static/community_logos/python-logo.png" width="32" height="32" alt="Python" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="32" height="32" alt="React" /> &nbsp;
+<img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="32" height="32" alt="Selenium" /> &nbsp;
+<img src="https://www.vagrantup.com/favicon.ico" width="32" height="32" alt="Vagrant" />
+
 
 ---
 
