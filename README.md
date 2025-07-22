@@ -112,19 +112,22 @@ Here are some ideas to get you started:
 
 <p>
   <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=logicopslab&show_icons=true&locale=en&layout=compact" 
-       alt="logicopslab" />
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=FabienAndrianambinintsoa&show_icons=true&locale=en&layout=compact" 
+       alt="Top Langs" />
 </p>
+
 <p>
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=logicopslab&show_icons=true&locale=en" 
-       alt="logicopslab" />
+       src="https://github-readme-stats.vercel.app/api?username=FabienAndrianambinintsoa&show_icons=true&locale=en" 
+       alt="GitHub Stats" />
 </p>
+
 <p>
   <img align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=logicopslab" 
-       alt="logicopslab" />
+       src="https://github-readme-streak-stats.herokuapp.com/?user=FabienAndrianambinintsoa" 
+       alt="GitHub Streak" />
 </p>
+
 
 
 ---
