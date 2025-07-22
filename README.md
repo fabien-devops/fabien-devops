@@ -115,6 +115,18 @@ Here are some ideas to get you started:
        src="https://github-readme-stats.vercel.app/api/top-langs?username=logicopslab&show_icons=true&locale=en&layout=compact" 
        alt="logicopslab" />
 </p>
+<p>
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=logicopslab&show_icons=true&locale=en" 
+       alt="logicopslab" />
+</p>
+<p>
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=logicopslab" 
+       alt="logicopslab" />
+</p>
 
+
+---
 
 ⭐ *Thank you for visiting my portfolio. I’m always open to new opportunities, challenges, and collaborations in the DevOps and Cloud space!*
