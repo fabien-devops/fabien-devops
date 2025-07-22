@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Fabien Andrianambinintsoa</h1>
-<h3 align="center">I'm **Fabien Andrianambinintsoa**, a passionate **DevOps Engineer** specializing in CI/CD, Cloud Infrastructure (AWS & GCP), Kubernetes, Docker, and Infrastructure as Code (Terraform, Ansible). This portfolio showcases the projects I’ve worked on to build and deploy scalable, reliable, and automated cloud-native systems..</h3>
+<h1 align="center">👋 Hi, I'm Fabien Andrianambinintsoa</h1>
+
+<h3 align="center">
+DevOps Engineer passionate about CI/CD, Cloud Infrastructure (AWS & GCP), Kubernetes, Docker, and Infrastructure as Code (Terraform, Ansible).
+</h3>
+
+<p align="center">
+This portfolio highlights the projects I’ve built and deployed to create scalable, reliable, and automated cloud-native systems.
+</p>
+
 <!-- <a href="https://imgur.com/emN3GAB"><img src="https://i.imgur.com/emN3GAB.png" title="source: imgur.com" /></a> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=logicopslab&label=Profile%20views&color=0e75b6&style=flat" alt="logicopslab" /> </p> -->
 
