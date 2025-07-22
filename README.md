@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 * **GitHub:** [fabien-devops](https://github.com/fabien-devops)
 * **LinkedIn:** [Fabien Andrianambinintsoa](https://www.linkedin.com/in/fabien-andrianambinintsoa)
 * **Email:** [fabien.andrianambinintsoa@gmail.com](mailto:fabien.andrianambinintsoa@gmail.com)
-* **Phone:** [+2613819720632](tel:+2613819720632)
+* **Phone:** [+261381972063](tel:+261381972063)
 
 ---
 
