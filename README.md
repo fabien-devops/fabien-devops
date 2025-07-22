@@ -110,4 +110,11 @@ Here are some ideas to get you started:
 
 ---
 
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=logicopslab&show_icons=true&locale=en&layout=compact" 
+       alt="logicopslab" />
+</p>
+
+
 ⭐ *Thank you for visiting my portfolio. I’m always open to new opportunities, challenges, and collaborations in the DevOps and Cloud space!*
