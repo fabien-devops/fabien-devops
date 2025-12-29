@@ -97,6 +97,8 @@ Here are some ideas to get you started:
 ### Note: 
 Explore all my other projects here [repositories](https://github.com/fabien-devops?tab=repositories).
 
+---
+
 ## 🧠 Skills
 
 ### DevOps & Cloud
