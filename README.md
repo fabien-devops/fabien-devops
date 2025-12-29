@@ -102,6 +102,15 @@ Here are some ideas to get you started:
 
 ---
 
+### 7. Ansible Workstation Setup
+
+* **Link:** [ansible-workstation-setup](https://github.com/fabien-devops/ansible-workstation-setup)
+* **Tech:** Ansible, Linux, Ubuntu, SSH, APT
+* **Description:** Ansible playbook that automates workstation and server configuration with user management, system updates, essential development tools installation (git, curl, nodejs, vim), custom MOTD setup, hostname configuration, and UTC timezone settings. Ensures consistent and ready-to-use environments across multiple machines.
+* **Key Skills:** Ansible playbooks, Linux automation, User management, Package management, System configuration, SSH configuration, Idempotent operations
+
+---
+
 ### Note: 
 Explore all my other projects here [repositories](https://github.com/fabien-devops?tab=repositories).
 
