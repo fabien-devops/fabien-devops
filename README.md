@@ -84,6 +84,19 @@ Here are some ideas to get you started:
 
 ---
 
+### 5. Ansible vps bootstrap
+
+* **Link:** [ansible-server-bootstrap](https://github.com/fabien-devops/ansible-server-bootstrap)
+* **Tech:** Tech: Ansible, Linux, SSH, UFW, Vault
+* **Description:** Ansible playbook that automates VPS setup by updating the system, installing essential packages, creating a DevOps user, configuring SSH access, and enabling a secure firewall with UFW. Secrets are stored safely using Ansible Vault.
+* **Key Skills:** Ansible, Linux server automation, SSH, Firewall configuration, Vault, Idempotent playbooks, DevOps best practices
+
+---
+
+
+### Note: 
+Explore all my other projects here [repositories](https://github.com/fabien-devops?tab=repositories).
+
 ## 🧠 Skills
 
 ### DevOps & Cloud
