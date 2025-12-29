@@ -93,6 +93,14 @@ Here are some ideas to get you started:
 
 ---
 
+### 6. Bash DevOps Scripts
+
+* **Link:** [bash-devops-scripts](https://github.com/fabien-devops/bash-devops-scripts)
+* **Tech:** Bash, Docker, Docker Compose, Linux, Shell Scripting
+* **Description:** Collection of practical bash utilities for DevOps automation including interactive file editing with Docker Compose management, automated Docker system cleanup for disk space recovery, and file permission validation with safe append operations. Features comprehensive error handling and user-friendly interactive prompts.
+* **Key Skills:** Bash scripting, Docker automation, File system operations, Permission management, Interactive CLI tools, Error handling, DevOps utilities
+
+---
 
 ### Note: 
 Explore all my other projects here [repositories](https://github.com/fabien-devops?tab=repositories).
