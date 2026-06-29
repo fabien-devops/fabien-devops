@@ -137,8 +137,8 @@ Explore all my other projects here [repositories](https://github.com/fabien-devo
 
 * **GitHub:** [fabien-devops](https://github.com/fabien-devops)
 * **LinkedIn:** [Fabien Andrianambinintsoa](https://www.linkedin.com/in/fabien-andrianambinintsoa)
-* **Email:** [fabien.andrianambinintsoa@gmail.com](mailto:fabien.andrianambinintsoa@gmail.com)
-* **Phone:** [+261381972063](tel:+261381972063)
+* **Email:** [hfabien.andrianambinintsoa@gmail.com](mailto:hfabien.andrianambinintsoa@gmail.com)
+* **Phone:** [+261375139619](tel:+261375139619)
 
 ---
 
